@@ -1,9 +1,6 @@
 ### Hello there, I'm Diana!👋
-#### 🏛️ 2nd year Computer Science student at the University of Bucharest
-- I really love databases😄
-- Preffered languages: Python, Java, C++, SQL
-- I am also familiar with: .NET, Haskell, OOP, HTML, CSS, JavaScript, React.js
-- My LinkedIn : https://www.linkedin.com/in/diana-alexandra-cordun-0b3999228/
+#### 🏛️ Final year Computer Science student at the University of Bucharest
+ My LinkedIn : https://www.linkedin.com/in/diana-alexandra-cordun-0b3999228/
 <!--
 **dianacordun/dianacordun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
