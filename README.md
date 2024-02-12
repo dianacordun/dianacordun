@@ -1,5 +1,4 @@
 ### Hello there, I'm Diana!👋
-#### 🏛️ Data Science - University of Bucharest 
  My LinkedIn : https://www.linkedin.com/in/diana-alexandra-cordun-0b3999228/
 <!--
 **dianacordun/dianacordun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
